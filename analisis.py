@@ -20,6 +20,7 @@ data = filtro_referencia(data)
 data = filtro_faltantes(data)
 
 #%% Random Forest
+#Cuidado que necesita datos todos numéricos y sin faltantes (no sé como hacer que funcione sino) 
 
 X_train, X_test, y_train, y_test = set_train_test(data)
 
