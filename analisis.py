@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from filtros import *
 from RF import *
+from graficos import *
 
 #%% Cargo base y filtro columnas con datos faltantes, NaCl, solvente EtOH y unidades molares
 # También quito datos que no se deteminen por TEM, SEM y los datos de referencias
@@ -25,3 +26,7 @@ data = filtro_faltantes(data)
 X_train, X_test, y_train, y_test = set_train_test(data)
 
 mae,mse,r2 = scores(X_train, X_test, y_train, y_test)
+
+#%% Gráficos de histogramas
+
+hist(data, densidad = False,tiempo = True)
