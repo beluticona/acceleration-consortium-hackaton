@@ -108,7 +108,7 @@ Columns of the csv dataset:
 
 ![GUI Plot](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20plot.png)
 
-![GUI Submit](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20submit.png =350x)
+![GUI Submit](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20submit.png=350x)
 
 
 
