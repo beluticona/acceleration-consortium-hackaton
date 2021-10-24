@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+ipykernel = "*"
+pydantic = {extras = ["email"], version = "*"}
+requests = "*"
+molar = {extras = ["backend"], version = "*"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.7.4"
