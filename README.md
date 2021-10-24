@@ -2,6 +2,13 @@
 
 Repository for the hackaton at Acceleration Consortium '21
 
+### Team
+- **DFQI-FCEN-UBA**
+
+- Team member:
+- 
+
+
 ## Proyect description
 
 Our aim is to facilitate the preparation of colloidal nanoparticles by creating an open SQL dataset on the experimental conditions. In particular, for this challenge we will focus on the synthesis of silica nanoparticles. These particles are widely used in industrial applications, medicine and science. To give an example, last year the global silica nanoparticles market was $3.2 billion and around 72k research papers involving silica nanoparticles have been published. We aim to integrate visualization tools for the data and develop machine learning and statistical models that could predict particle sizes and their dispersion from the experimental conditions. Anyone interested in synthesizing silica particles could make use of these tools to optimize their experimental parameters in order to reach a certain particle diameter in a quick, simple way, without the need of previous coding knowledge. It can also be used by data scientists interested in developing new models and statistical studies on the topic. Opening the dataset may not only provide the opportunity for entirely new studies and discoveries, but may also encourage researchers to add new instances based on their own experimental data and push the materials science community to create open datasets on other materials, making access to reproducible synthesis information easier for anyone interested and advancing the nanosynthesis field in a more sustainable way globally.
@@ -100,10 +107,15 @@ Columns of the csv dataset:
 - Modeled the problem with 10 tables, populating the data for one of them as a example. Tables:
 - Planned data mapping between raw data and the "Stober DB" data base.
 
-#### Stober Data Base Diagram
+#### Stöber Data Base Diagram
 
 ![Stöber Data Base Diagram](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/stober_db_diagram.png)
 
+![code](
+https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/data_entries_molar_examples.png)
+
+![code2](
+https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/molar_view_db.png)
 ### GUI
 
 ![GUI Plot](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20plot.png)
@@ -111,8 +123,6 @@ Columns of the csv dataset:
 ![GUI Submit](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20submit.png=350x)
 
 
-
 ## Future works and improvements
 
 With the SQL dataset created using Molar, the next step is to link it to the graphic interface of the csv dataset and prepare a user interface to allow the input of new instances and the visualization in a more friendly environment. After that, with time we hope to reach the "best" goals previously mentioned.
-
