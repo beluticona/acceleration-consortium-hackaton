@@ -1,4 +1,4 @@
-# acceleration-consortium-hackaton
+# Acceleration-consortium-hackaton
 Repository for the hackaton at Acceleration Consortium '21
 
 ## Requirements
