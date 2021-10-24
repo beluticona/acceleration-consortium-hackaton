@@ -3,10 +3,12 @@
 Repository for the hackaton at Acceleration Consortium '21
 
 ### Team
-- **DFQI-FCEN-UBA**
-
-- Team member:
-- 
+- **Name: DFQI-FCEN-UBA**
+- **Team members:**
+    - Diego Onna
+    - Guillermo Fiorini
+    - Juan Santiago Grassano
+    - María Belén Ticona
 
 
 ## Proyect description
@@ -120,9 +122,8 @@ https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/i
 
 ![GUI Plot](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20plot.png)
 
-![GUI Submit](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20submit.png=350x)
 
-
+![GUI Submit](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20submit.png =350x)
 ## Future works and improvements
 
 With the SQL dataset created using Molar, the next step is to link it to the graphic interface of the csv dataset and prepare a user interface to allow the input of new instances and the visualization in a more friendly environment. After that, with time we hope to reach the "best" goals previously mentioned.
