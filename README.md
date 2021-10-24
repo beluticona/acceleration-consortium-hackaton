@@ -113,17 +113,18 @@ Columns of the csv dataset:
 
 ![Stöber Data Base Diagram](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/stober_db_diagram.png)
 
-![code](
-https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/data_entries_molar_examples.png)
+![code](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/data_entries_molar_examples.png)
 
-![code2](
-https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/molar_view_db.png)
+
+![code2](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/molar_view_db.png)
+
 ### GUI
 
 ![GUI Plot](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20plot.png)
 
 
 ![GUI Submit](https://raw.githubusercontent.com/pacasi/acceleration-consortium-hackaton/main/img/GUI%20submit.png=350x)
+
 ## Future works and improvements
 
 With the SQL dataset created using Molar, the next step is to link it to the graphic interface of the csv dataset and prepare a user interface to allow the input of new instances and the visualization in a more friendly environment. After that, with time we hope to reach the "best" goals previously mentioned.
